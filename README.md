@@ -1,6 +1,6 @@
-### MTF
+# MTF
 
-# Aplicativo vencedor do 3º lugar no Hackaintegra da 20ª Semana Integrada da PUC Campinas
+### Aplicativo vencedor do 3º lugar no Hackaintegra da 20ª Semana Integrada da PUC Campinas
 
 Com o tema "Como diminuir a distração ao usar o celular enquanto dirige", nossa equipe desenvolveu um negócio baseado em um aplicativo que visa automatizar algumas tarefas para o usuário.
 
